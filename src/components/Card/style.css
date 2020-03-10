@@ -1,0 +1,15 @@
+.card {
+  width: 210px;
+  height: 296px;
+
+  position: relative;
+
+  background-image: url("../../assets/images/cal_ripken_sig_series.jpg");
+  background-size: cover;
+}
+
+.card__rating {
+  position: absolute;
+  right: 5px;
+  top: 5px;
+}
